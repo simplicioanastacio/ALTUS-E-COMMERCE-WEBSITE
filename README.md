@@ -1,4 +1,4 @@
-<img width="432" height="219" alt="image" src="https://github.com/user-attachments/assets/30042f61-4b38-47d5-bec1-a08cd42bcc63" /># 🛍️ Altus E-Commerce Website
+# 🛍️ Altus E-Commerce Website
 
 ## 📌 Project Description
 **Altus Clothing Brand Website** is a dynamic e-commerce platform designed for **two types of users**: **Customers** and **Admins**.  
