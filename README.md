@@ -4,10 +4,10 @@
 **Altus Clothing Brand Website** is a dynamic e-commerce platform designed for **two types of users**: **Customers** and **Admins**.  
 
 - **Customers** can browse **four main product categories**:  
-  - 🏃‍♂️ Shop Now  
-  - 🏋️ Altus Sports  
-  - 👗 Women  
-  - 👜 Accessories  
+  - Shop Now  
+  - Altus Sports  
+  - Women  
+  - Accessories  
 - Customers can **register, login, add products to the cart, place orders, and view order history**.  
 
 - **Admins** manage the backend:  
@@ -18,7 +18,7 @@ This project is built with **Java, JSP/Servlet, HTML, CSS, JavaScript, and MySQL
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 - Develop a **responsive and user-friendly clothing e-commerce website**  
 - Implement **secure registration and login system** for both customers and admins  
 - Allow customers to **browse products, add to cart, place orders, and view order history**  
@@ -27,7 +27,7 @@ This project is built with **Java, JSP/Servlet, HTML, CSS, JavaScript, and MySQL
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** JSP (JavaServer Pages), Servlet  
 - **Database:** MySQL (managed via PHPMyAdmin)  
@@ -41,7 +41,7 @@ This project is built with **Java, JSP/Servlet, HTML, CSS, JavaScript, and MySQL
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 SYSTEM FUNCTIONALITY DIAGRAM
 
@@ -92,7 +92,7 @@ DATABASE MANAGEMENT (phpMyAdmin)
 
 
 
-## 🚀 Getting Started
+## Getting Started
 1. Clone the repository  
 2. Open in **Eclipse IDE**  
 3. Configure **Apache Tomcat 9** server  
@@ -101,17 +101,17 @@ DATABASE MANAGEMENT (phpMyAdmin)
 
 ---
 
-## 🔑 Features
-- ✅ Customer registration & login  
-- ✅ Product browsing & cart management  
-- ✅ Order placement & history tracking  
-- ✅ Admin product management  
-- ✅ Secure password encryption  
-- ✅ Dynamic JSP/Servlet pages  
+## Features
+- Customer registration & login  
+- Product browsing & cart management  
+- Order placement & history tracking  
+- Admin product management  
+- Secure password encryption  
+- Dynamic JSP/Servlet pages  
 
 ---
 
-## 🌟 Future Enhancements
+## Future Enhancements
 - Add **payment gateway integration**  
 - Improve **UI/UX design**  
 - Implement **real-time order notifications**  
